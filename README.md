@@ -2,13 +2,9 @@
 
 An inclusive language text checker, created by [Victoria Chang](https://github.com/vcchang), [Shanice Mcsavaney](https://github.com/shanicem), and [Nicole Li](https://github.com/nicolehli).
 
-<<<<<<< HEAD
-Check it out: [kindHerWords](https://kindherwords.com/)
-=======
 Created by [Victoria Chang](https://github.com/vcchang), [Shanice Mcsavaney](https://github.com/shanicem), and [Nicole Li](https://github.com/nicolehli) 
 
 https://kindherwords.com/
->>>>>>> Fix readme links
 
 ## Inspiration
 
